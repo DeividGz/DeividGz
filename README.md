@@ -4,7 +4,7 @@
 
 💻 Interessado em tecnologia! <br >
 💖 Gosto de melhorar minhas habilidades com diferentes projetos. <br >
-📚 Atualmente estudando React + NextJS.
+📚 Atualmente estudando PHP + Estrutura MVC.
 
 ## Status
 
