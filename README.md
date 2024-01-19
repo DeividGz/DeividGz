@@ -3,8 +3,7 @@
 <h1 align="center">Eai, tudo bem? Deivid aqui! 😉</h1>
 
 💻 Interessado em tecnologia! <br >
-💖 Gosto de melhorar minhas habilidades com diferentes projetos. <br >
-📚 Atualmente estudando PHP + Estrutura MVC.
+💖 Gosto de melhorar minhas habilidades com diferentes projetos.
 
 ## Status
 
